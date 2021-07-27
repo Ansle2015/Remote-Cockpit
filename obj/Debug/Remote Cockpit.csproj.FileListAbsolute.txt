@@ -1,0 +1,12 @@
+C:\Users\44633\Documents\GitHub\Remote Cockpit\obj\Debug\Remote_Cockpit.Properties.Resources.resources
+C:\Users\44633\Documents\GitHub\Remote Cockpit\obj\Debug\Remote Cockpit.csproj.GenerateResource.cache
+C:\Users\44633\Documents\GitHub\Remote Cockpit\obj\Debug\Remote Cockpit.csproj.CoreCompileInputs.cache
+C:\Users\44633\Documents\GitHub\Remote Cockpit\obj\Debug\Remote_Cockpit.frmPlayer.resources
+C:\Users\44633\Documents\GitHub\Remote Cockpit\bin\Debug\Remote Cockpit.exe.config
+C:\Users\44633\Documents\GitHub\Remote Cockpit\bin\Debug\Remote Cockpit.exe
+C:\Users\44633\Documents\GitHub\Remote Cockpit\bin\Debug\Remote Cockpit.pdb
+C:\Users\44633\Documents\GitHub\Remote Cockpit\bin\Debug\FFmpeg.AutoGen.dll
+C:\Users\44633\Documents\GitHub\Remote Cockpit\bin\Debug\FFmpeg.AutoGen.xml
+C:\Users\44633\Documents\GitHub\Remote Cockpit\obj\Debug\Remote Cockpit.csproj.CopyComplete
+C:\Users\44633\Documents\GitHub\Remote Cockpit\obj\Debug\Remote Cockpit.exe
+C:\Users\44633\Documents\GitHub\Remote Cockpit\obj\Debug\Remote Cockpit.pdb
