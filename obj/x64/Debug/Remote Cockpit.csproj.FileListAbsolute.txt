@@ -1,0 +1,4 @@
+C:\Users\44633\Documents\GitHub\Remote Cockpit\obj\x64\Debug\Remote_Cockpit.FFPlayer.frmPlayer.resources
+C:\Users\44633\Documents\GitHub\Remote Cockpit\obj\x64\Debug\Remote_Cockpit.Properties.Resources.resources
+C:\Users\44633\Documents\GitHub\Remote Cockpit\obj\x64\Debug\Remote Cockpit.csproj.GenerateResource.cache
+C:\Users\44633\Documents\GitHub\Remote Cockpit\obj\x64\Debug\Remote Cockpit.csproj.CoreCompileInputs.cache
