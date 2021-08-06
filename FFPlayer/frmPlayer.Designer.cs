@@ -32,6 +32,13 @@
             ((System.ComponentModel.ISupportInitialize)(this.pic)).BeginInit();
             this.SuspendLayout();
             // 
+            // frmPlayer
+            // 
+            this.ClientSize = new System.Drawing.Size(282, 253);
+            this.Name = "frmPlayer";
+            this.ShowIcon = false;
+            this.ResumeLayout(false);
+            // 
             // pic
             // 
             this.pic.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
