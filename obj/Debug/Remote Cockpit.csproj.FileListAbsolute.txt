@@ -16,3 +16,4 @@ C:\Users\44633\Documents\GitHub\Remote Cockpit\obj\Debug\Remote Cockpit.exe
 C:\Users\44633\Documents\GitHub\Remote Cockpit\obj\Debug\Remote Cockpit.pdb
 C:\Users\44633\Documents\GitHub\Remote Cockpit\bin\Debug\Newtonsoft.Json.dll
 C:\Users\44633\Documents\GitHub\Remote Cockpit\bin\Debug\Newtonsoft.Json.xml
+C:\Users\44633\Documents\GitHub\Remote Cockpit\obj\Debug\Remote Cockpit.csproj.AssemblyReference.cache

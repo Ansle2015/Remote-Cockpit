@@ -5,7 +5,6 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Diagnostics;
-using System.Timers;
 using System.Net;
 using System.Net.Sockets;
 using System.Text;
@@ -201,7 +200,7 @@ namespace Remote_Cockpit
                                 if (clientSocket != null) clientSocket.Close();
                                 break;
                             }
-                            Thread.Sleep(20);
+                            Thread.Sleep(10);
                         }
                         watchers[1].Set();
                     }).Start();
