@@ -118,7 +118,7 @@ namespace Remote_Cockpit
             // frmPlayerTimer
             // 
             this.frmPlayerTimer.Enabled = true;
-            this.frmPlayerTimer.Interval = 200;
+            this.frmPlayerTimer.Interval = 200D;
             this.frmPlayerTimer.SynchronizingObject = this;
             this.frmPlayerTimer.Elapsed += new System.Timers.ElapsedEventHandler(this.timer1_Tick);
             // 

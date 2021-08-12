@@ -2,9 +2,11 @@ C:\Users\44633\Documents\GitHub\Remote Cockpit\bin\Debug\Remote Cockpit.exe.conf
 C:\Users\44633\Documents\GitHub\Remote Cockpit\bin\Debug\Remote Cockpit.exe
 C:\Users\44633\Documents\GitHub\Remote Cockpit\bin\Debug\Remote Cockpit.pdb
 C:\Users\44633\Documents\GitHub\Remote Cockpit\bin\Debug\FFmpeg.AutoGen.dll
+C:\Users\44633\Documents\GitHub\Remote Cockpit\bin\Debug\Newtonsoft.Json.dll
 C:\Users\44633\Documents\GitHub\Remote Cockpit\bin\Debug\UnityEditor.dll
 C:\Users\44633\Documents\GitHub\Remote Cockpit\bin\Debug\UnityEngine.dll
 C:\Users\44633\Documents\GitHub\Remote Cockpit\bin\Debug\FFmpeg.AutoGen.xml
+C:\Users\44633\Documents\GitHub\Remote Cockpit\bin\Debug\Newtonsoft.Json.xml
 C:\Users\44633\Documents\GitHub\Remote Cockpit\bin\Debug\UnityEditor.xml
 C:\Users\44633\Documents\GitHub\Remote Cockpit\bin\Debug\UnityEngine.xml
 C:\Users\44633\Documents\GitHub\Remote Cockpit\obj\Debug\Remote_Cockpit.FFPlayer.frmPlayer.resources
@@ -14,6 +16,3 @@ C:\Users\44633\Documents\GitHub\Remote Cockpit\obj\Debug\Remote Cockpit.csproj.C
 C:\Users\44633\Documents\GitHub\Remote Cockpit\obj\Debug\Remote Cockpit.csproj.CopyComplete
 C:\Users\44633\Documents\GitHub\Remote Cockpit\obj\Debug\Remote Cockpit.exe
 C:\Users\44633\Documents\GitHub\Remote Cockpit\obj\Debug\Remote Cockpit.pdb
-C:\Users\44633\Documents\GitHub\Remote Cockpit\bin\Debug\Newtonsoft.Json.dll
-C:\Users\44633\Documents\GitHub\Remote Cockpit\bin\Debug\Newtonsoft.Json.xml
-C:\Users\44633\Documents\GitHub\Remote Cockpit\obj\Debug\Remote Cockpit.csproj.AssemblyReference.cache
